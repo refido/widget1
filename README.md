@@ -1,10 +1,10 @@
 ## Hasil run
 
 ![gambar 1](image/1.jpeg)
-gambar 1 diabil sebelum scroll
+# gambar 1 diabil sebelum scroll
 
 ![gambar 2](image/2.jpeg)
-gambar 2 diabil sesudah scroll
+# gambar 2 diabil sesudah scroll
 
 button tab belum mengganti isi dari tampilan 
 
